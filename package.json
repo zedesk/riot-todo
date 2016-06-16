@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall":"bower install",
-    "start":"http-server"
+    "start":"http-server",
+    "build":"riot tags dist/bundle.js"
   },
   "author": "",
   "license": "ISC",

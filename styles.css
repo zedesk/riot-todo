@@ -9,6 +9,13 @@ button {
     border-radius:3px;
     background: dodgerblue;
     color:white;
+    outline:none;
+    font-size:initial;
+}
+
+button:hover {
+    filter: brightness(60%);
+    -webkit-filter: brightness(60%);
 }
 
 .success {
