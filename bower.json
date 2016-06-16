@@ -1,0 +1,22 @@
+{
+  "name": "riot-sample",
+  "description": "A simple riot example",
+  "main": "index.html",
+  "authors": [
+    "Fabrice Le Coz <fabrice.lecoz@zedesk.net>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "riot": "^2.4.1",
+    "moment": "^2.13.0"
+  }
+}
