@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size:14px;
+}
+
+button {
+    padding:0px 10px;
+    border:none;
+    border-radius:3px;
+    background: dodgerblue;
+    color:white;
+}
+
+.success {
+    background: #5cb85c;
+    color:white
+}
+
+.danger {
+    background:crimson;
+    color:white;
+}
